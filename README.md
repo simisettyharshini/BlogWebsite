@@ -7,3 +7,11 @@ My Blog is a React.js application developed as a personal blog website. It serve
 - JavaScript: A programming language for adding interactivity to web applications.
 - Git: A version control system for tracking changes and collaborating on projects.
 - GitHub Pages: A platform for hosting and deploying web applications.
+
+## Installation:
+   To run this portfolio locally, follow these steps:
+ - Clone the repository: git clone 
+ - Navigate to the project directory: cd 
+ - Install the dependencies: npm install
+ - Start the development server: npm start
+ - Open your browser and visit: http://localhost:3000
