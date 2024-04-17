@@ -10,8 +10,8 @@ My Blog is a React.js application developed as a personal blog website. It serve
 
 ## Installation:
    To run this portfolio locally, follow these steps:
- - Clone the repository: git clone 
- - Navigate to the project directory: cd 
+ - Clone the repository: git clone  
+ - Navigate to the project directory: cd BlogWebsite-main 
  - Install the dependencies: npm install
  - Start the development server: npm start
  - Open your browser and visit: http://localhost:3000
